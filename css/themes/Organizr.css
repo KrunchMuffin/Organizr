@@ -104,12 +104,12 @@ body {
   border: 1px solid #1f1f1f;
 }
 /*Custom tab*/
-.customtab li.active a,
+/*.customtab li.active a,
 .customtab li.active a:hover,
 .customtab li.active a:focus {
-  /*border-bottom: 2px solid #1f1f1f;
-  color: #1f1f1f;*/
-}
+  border-bottom: 2px solid #1f1f1f;
+  color: #1f1f1f;
+}*/
 .tabs-vertical li.active a,
 .tabs-vertical li.active a:hover,
 .tabs-vertical li.active a:focus {
@@ -232,9 +232,9 @@ input,
 .panel-body {
   background: #333;
 }
-.jq-toast-single {
-  /*border-radius: 10px 10px 0 0;*/
-}
+/*.jq-toast-single {
+  border-radius: 10px 10px 0 0;
+}*/
 .tooltip-text3 {
   border-bottom: 10px solid #2cabe4;
   overflow: hidden;

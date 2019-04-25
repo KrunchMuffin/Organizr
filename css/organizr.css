@@ -1137,7 +1137,6 @@ img.img-chooser {
 }
 .select2-container--default .select2-selection--single .select2-selection__rendered {
     color: inherit;
-    line-height: 38px;
 }
 .select2-container--default .select2-selection--single .select2-selection__arrow {
     height: 38px;
@@ -1286,6 +1285,15 @@ span.fc-title {
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
 }
+
+.select2-search--dropdown {
+    background-color: #1f1f1f;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    top: 35%;
+}
+
 /*
 body,
 html {
